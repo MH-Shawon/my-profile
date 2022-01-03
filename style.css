@@ -1,7 +1,15 @@
 h1{color: darkblue;
+    
 background-color: mediumseagreen;
 height: 50%;
-width: 50%;}
-p{color: blueviolet;}
+width: 50%;border: 5px solid black;
+border-radius: 15px;
+text-align:center;margin-left: 190px;}
+
+p{color: rgb(233, 230, 236); font-size: larger;}
 .blog{color: crimson;
-        border: 2px solid yellow;}
+    border: 5px solid rgb(0, 183, 255);
+background-color: rebeccapurple;
+height: 50%;
+width: 50%;
+border-radius: 15px;text-align: center;margin-left: 190px;}
