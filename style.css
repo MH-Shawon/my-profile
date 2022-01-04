@@ -6,10 +6,13 @@ width: 50%;border: 5px solid black;
 border-radius: 15px;
 text-align:center;margin-left: 190px;}
 
-p{color: rgb(233, 230, 236); font-size: larger;}
+p{color: rgb(16, 2, 31); font-size: 25px;}
 .blog{color: crimson;
     border: 5px solid rgb(0, 183, 255);
 background-color: rebeccapurple;
 height: 50%;
 width: 50%;
 border-radius: 15px;text-align: center;margin-left: 190px;}
+.blog-id{margin-left: 390px;}
+img{height: 350px;width: 400px;
+margin-left: 305px;}
